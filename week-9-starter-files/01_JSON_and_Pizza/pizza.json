@@ -1,0 +1,28 @@
+{
+  "pizzaTypes" : [
+    {
+      "name" : "Classic Cheese",
+      "price" : 9.75,
+      "size" : "large",
+      "toppings" : ["cheese","extra-cheese"],
+      "image" : "pizza-1.jpg"
+    },
+
+    {
+      "name" : "Margherita",
+      "price" : 11.95,
+      "size" : "medium",
+      "toppings" : ["cheese","bocconcini","basil","sweet cherry tomatoes"],
+      "image" : "pizza-2.jpg"
+    },
+
+    {
+      "name" : "Meat Lovers",
+      "price" : 14.68,
+      "size" : "large",
+      "toppings" : ["cheese","pepperoni","sausage","bacon"],
+      "image" : "pizza-3.jpg"
+    }
+
+  ]
+}
